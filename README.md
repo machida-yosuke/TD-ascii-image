@@ -1,0 +1,4 @@
+# 使い方
+text DATのgenerateScriptを実行すれば自動で連番画像を生成します。
+moviefileout1の名前を自分でかえてください
+mosaicSizeを大きくすれば文字が大きくなります。
